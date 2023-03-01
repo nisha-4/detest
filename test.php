@@ -1,3 +1,6 @@
 <?php
- echo "hello"
+ echo "hello hi hey nisha"
    ?>
+<?php 
+echo "hey"
+?>
