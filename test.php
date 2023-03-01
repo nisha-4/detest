@@ -4,4 +4,8 @@
 <?php 
 echo "hey"
 ?>
+<<<<<<< HEAD
 helllo
+=======
+hhhh
+>>>>>>> b1
